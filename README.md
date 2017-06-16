@@ -5,10 +5,10 @@ awesome blog list
 
 ## Contents
 
-- [Javascript](#Javascript)
-- [Design](#Design)
-- [Backend](#Backend)
-- [Other](#Other)
+- [Javascript](#javascript)
+- [Design](#design)
+- [Backend](#backend)
+- [Other](#other)
 
 
 ## Design
