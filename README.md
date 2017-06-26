@@ -32,7 +32,7 @@ awesome blog list
 
 ## Backend
 
-- http://www.onebigfluke.com/ Google app Engine 作者
+- http://www.onebigfluke.com/ Google app Engine 作者 Effective Python 作者
 - https://www.joelonsoftware.com/  stackoverflow CEO
 - https://mathieu.fenniak.net/ pypdf 作者
 - http://www.laurencegellert.com/ 
@@ -63,6 +63,9 @@ awesome blog list
 - http://beej.us/blog/ linux nerwork programming guide author
 - https://blog.labix.org/ Ubuntu 一个程序员博客
 - https://haoluobo.com/ 一个 Python 程序员 LBForum 作者
+- http://qinxuye.me/ 阿里云 Python 程序员 pyodps 作者 
+- http://www.kitchensoap.com/ etsy CTO
+- http://effbot.org/ elementTree 作者 
 
 ## Other
 
@@ -77,4 +80,5 @@ awesome blog list
 - http://blog.dhananjaynene.com/
 - http://codeblog.dhananjaynene.com/2010/01/implementing-request-interceptors-for-tornado/ 
 - http://www.pgbovine.net/ 做python 教学的一个老师，做了很多工具
+- http://www.matrix67.com/blog/ 一个数学博客
 
