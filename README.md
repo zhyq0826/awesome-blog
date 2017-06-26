@@ -62,6 +62,7 @@ awesome blog list
 - http://jm.taobao.org/ 淘宝中间件技术团队
 - http://beej.us/blog/ linux nerwork programming guide author
 - https://blog.labix.org/ Ubuntu 一个程序员博客
+- https://haoluobo.com/ 一个 Python 程序员 LBForum 作者
 
 ## Other
 
