@@ -66,6 +66,7 @@ awesome blog list
 - http://qinxuye.me/ 阿里云 Python 程序员 pyodps 作者 
 - http://www.kitchensoap.com/ etsy CTO
 - http://effbot.org/ elementTree 作者 
+- http://preshing.com/ 一个游戏程序员主要是 c++ 和 Python
 
 ## Other
 
