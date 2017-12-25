@@ -72,6 +72,7 @@ awesome blog list
 - http://effbot.org/ elementTree 作者 
 - http://preshing.com/ 一个游戏程序员主要是 c++ 和 Python
 - http://mysql.taobao.org/monthly/ 淘宝数据内核月报
+- https://nedbatchelder.com/ coverage.py 作者
 
 ## Other
 
