@@ -33,6 +33,7 @@ awesome blog list
 ## Docker and Container
 
 - https://www.alexellis.io/ 关于 docker 以及 容器编排的博客
+- https://www.kartar.net/ 原 Docker 公司的一名 VP
 
 ## Backend
 
