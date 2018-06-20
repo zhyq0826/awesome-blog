@@ -50,24 +50,24 @@ awesome blog list
 - http://highscalability.com/ 高可用架构
 - https://www.igvita.com/ high performance network browser 作者
 - http://www.vimer.cn/ 游戏创业程序员
-- http://qinxuye.me/  一个阿里云程序员
+- http://qinxuye.me/  一名阿里云程序员
 - http://nvie.com/ rq 作者
 - http://lucumr.pocoo.org/ flask 作者
-- https://keyes.ie/archive/ 一个 python 博客
+- https://keyes.ie/archive/ 一名 python 博客
 - http://jessenoller.com/good-to-great-python-reads/ python 程序员，python 核心代码贡献者 
-- https://denibertovic.com/ 一个关注 docker 程序员
-- http://codeblog.dhananjaynene.com 一个 python 程序员的代码
+- https://denibertovic.com/ 一名关注 docker 程序员
+- http://codeblog.dhananjaynene.com 一名 python 程序员的代码
 - https://blog.serverdensity.com/ serverdensity
 - http://tech.meituan.com/ 美团
 - https://timyang.net/  新浪微博技术总监
 - http://dmitrysoshnikov.com/ 俄罗斯程序员，写 JavaScript 理论知识，理解非常透彻
 - https://dickgrune.com/  计算机语言解析技术，此法分析，语法分析
 - https://thenewstack.io/ 一个高质量的后端博客
-- https://dave.cheney.net/ 一个 go 程序员，悉尼 go group 组织者
+- https://dave.cheney.net/ 一名 go 程序员，悉尼 go group 组织者
 - http://jm.taobao.org/ 淘宝中间件技术团队
 - http://beej.us/blog/ linux nerwork programming guide author
-- https://blog.labix.org/ Ubuntu 一个程序员博客
-- https://haoluobo.com/ 一个 Python 程序员 LBForum 作者
+- https://blog.labix.org/ Ubuntu 一名程序员博客
+- https://haoluobo.com/ 一名 Python 程序员 LBForum 作者
 - http://qinxuye.me/ 阿里云 Python 程序员 pyodps 作者 
 - http://www.kitchensoap.com/ etsy CTO
 - http://effbot.org/ elementTree 作者 
@@ -75,6 +75,7 @@ awesome blog list
 - http://mysql.taobao.org/monthly/ 淘宝数据内核月报
 - https://nedbatchelder.com/ coverage.py 作者
 - http://hedengcheng.com/ 阿里巴巴内核研发专家
+- https://eli.thegreenplace.net/ 一名 Google 后端程序员
 
 ## Other
 
