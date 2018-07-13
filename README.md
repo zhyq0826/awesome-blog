@@ -76,6 +76,8 @@ awesome blog list
 - https://nedbatchelder.com/ coverage.py 作者
 - http://hedengcheng.com/ 阿里巴巴内核研发专家
 - https://eli.thegreenplace.net/ 一名 Google 后端程序员
+- https://wdxtub.com/2016/09/11/work-page/ 90 程序员以计算机底层技术为主
+
 
 ## Other
 
@@ -92,4 +94,3 @@ awesome blog list
 - http://www.pgbovine.net/ 做python 教学的一个老师，做了很多工具
 - http://www.matrix67.com/blog/ 一个数学博客
 - https://notes.shichao.io/books/ 一个程序员的读书笔记 主要集中在 linux 内核，系统编程，网络编程等方面
-
