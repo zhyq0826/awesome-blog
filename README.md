@@ -94,3 +94,4 @@ awesome blog list
 - http://www.pgbovine.net/ 做python 教学的一个老师，做了很多工具
 - http://www.matrix67.com/blog/ 一个数学博客
 - https://notes.shichao.io/books/ 一个程序员的读书笔记 主要集中在 linux 内核，系统编程，网络编程等方面
+- http://linuxperf.com/ linux 性能分析
