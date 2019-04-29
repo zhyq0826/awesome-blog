@@ -78,6 +78,7 @@ awesome blog list
 - https://eli.thegreenplace.net/ 一名 Google 后端程序员
 - https://wdxtub.com/2016/09/11/work-page/ 90 程序员以计算机底层技术为主
 - https://eklitzke.org/  c++ c 程序员
+- https://crossoverjie.top 一个 Java 程序员
 
 
 ## Other
