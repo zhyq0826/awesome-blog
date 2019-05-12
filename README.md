@@ -29,6 +29,7 @@ awesome blog list
 - https://snook.ca/ smacc 作者 css 模块化和架构
 - https://javascriptweblog.wordpress.com/ JavaScript 博客，深度分析
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript moz JavaScript
+- https://flaviocopes.com/ 国外前端程序员，写过很多前端免费电子书，博客成体系，持续更新
 
 ## Docker and Container
 
